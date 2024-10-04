@@ -1,0 +1,7 @@
+/.env
+/env
+*.pyc
+*.pyo
+.env
+.vscode
+.venv
